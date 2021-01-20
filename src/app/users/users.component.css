@@ -1,0 +1,14 @@
+table {
+  width: 100%;
+}
+th.mat-sort-header-sorted {
+  color: black;
+}
+.mat-input-wrapper {
+  width: 400px !important;
+  float: right;
+  padding: 30px;
+}
+.mat-elevation-z8 {
+  padding: 10px;
+}
